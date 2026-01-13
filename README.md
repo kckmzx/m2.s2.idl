@@ -14,6 +14,13 @@ This repository contains all the resources for the M2 course "Introduction to De
 - [Transfer learning on MNIST with MobileNetV3](1-introduction/tp-1-mnist-mobilenet.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/1-introduction/tp-1-mnist-mobilenet.ipynb)
 
 
+### 16/01/2025. Basics: Tensor, Gradient Descent, Linear Regression
+
+- [Tensors](2-basics/tensors.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/2-basics/tensors.ipynb)
+- [Quizz](2-basics/quizz.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/2-basics/quizz.ipynb)
+- [Linear regression](2-basics/linear-regression.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/2-basics/linear-regression.ipynb)
+
+
 ## Evaluation
 
 ### Course Project (70%)
